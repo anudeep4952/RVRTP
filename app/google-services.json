@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917834344805",
+    "firebase_url": "https://rvrtp-68156.firebaseio.com",
+    "project_id": "rvrtp-68156",
+    "storage_bucket": "rvrtp-68156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917834344805:android:bab0d7deb47b28ed",
+        "android_client_info": {
+          "package_name": "cm.example.android.rvrtp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917834344805-p30qvk6qmu53a85lrof3nk5oo0gu0033.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cm.example.android.rvrtp",
+            "certificate_hash": "f0c0d39d27cda4c58fba6d70b0eb1ea3abfc14c4"
+          }
+        },
+        {
+          "client_id": "917834344805-sk9utcbuc311c78on4g0r3vlfa91nma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3AfupkPLHG1i5k-DMkav8MlvICfayzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917834344805-sk9utcbuc311c78on4g0r3vlfa91nma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
